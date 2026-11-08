@@ -1,4 +1,4 @@
-# libs-installer
-gerenciador de bibliotecas prático para python.
-## dependências
-python e windows.
+# Libs Installer
+Gerenciador de bibliotecas prático para Python.
+## Requisitos
+Python e Windows 7 ou superior.
